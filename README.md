@@ -1,4 +1,4 @@
-# AlgorithmsProject
+# Algorithms Project
 ## Overview
 In this Project, you’ll use some sorting algorithms to sort different sets of randomly generated input data. 
 
